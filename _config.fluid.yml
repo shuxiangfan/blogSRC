@@ -104,4 +104,4 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/shuxiangfan/shuxiangfan.github.io
+  repo: git@github.com:shuxiangfan/shuxiangfan.github.io.git
