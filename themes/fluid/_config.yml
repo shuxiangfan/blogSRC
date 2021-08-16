@@ -691,7 +691,7 @@ gitalk:
   # The default proxy may be invalid, refer to the links for solutions
   # https://github.com/gitalk/gitalk/issues/429
   # https://github.com/Zibri/cloudflare-cors-anywhere
-  proxy: https://summer-bread-2c33.ckst.workers.dev/https://github.com/login/oauth/access_token
+  proxy: https://summer-bread-2c33.ckst.workers.dev/?https://github.com/login/oauth/access_token
 
 # Valine
 # 基于 LeanCloud
