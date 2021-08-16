@@ -676,11 +676,11 @@ disqus:
 # Based on GitHub Issues
 # See: https://github.com/gitalk/gitalk#options
 gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
-  admin: ['name']
+  clientID: 4c07f4929403b77a476d
+  clientSecret: d73e05f5d6585c812b331d7166b97a9a6715dec3
+  repo: https://github.com/shuxiangfan/shuxiangfan.github.io
+  owner: shuxiangfan
+  admin: ['shuxiangfan']
   language: zh-CN
   labels: ['Gitalk']
   perPage: 10
@@ -691,7 +691,7 @@ gitalk:
   # The default proxy may be invalid, refer to the links for solutions
   # https://github.com/gitalk/gitalk/issues/429
   # https://github.com/Zibri/cloudflare-cors-anywhere
-  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+  proxy: https://summer-bread-2c33.ckst.workers.dev/https://github.com/login/oauth/access_token
 
 # Valine
 # 基于 LeanCloud
