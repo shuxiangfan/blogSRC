@@ -678,7 +678,7 @@ disqus:
 gitalk:
   clientID: 4c07f4929403b77a476d
   clientSecret: d73e05f5d6585c812b331d7166b97a9a6715dec3
-  repo: https://github.com/shuxiangfan/shuxiangfan.github.io
+  repo: shuxiangfan.github.io
   owner: shuxiangfan
   admin: ['shuxiangfan']
   language: zh-CN
