@@ -4,10 +4,10 @@
 
 # Site
 title: Reallyshow‘s Blog
-subtitle: '欢迎来到范范的博客'
-description: '摸鱼-躺平-划水'
-keywords:
-author: Fanshuxiang
+subtitle: '欢迎来到Reallyshow的博客'
+description: "摸鱼-躺平-划水"
+keywords: "摸鱼-躺平-划水"
+author: Reallyshow
 language: zh-CN
 timezone: 'Asia/Shanghai'
 banner_img: /img/banner.png
