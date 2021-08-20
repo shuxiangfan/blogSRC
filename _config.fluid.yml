@@ -853,6 +853,7 @@ about:
     - { class: "iconfont icon-github-fill", link: "https://github.com/shuxiangfan", tip: "GitHub" }
     - { class: "iconfont icon-qq-fill", qrcode: "/img/QQ.jpg", tip: "QQ" }
     - { class: "iconfont icon-wechat-fill", qrcode: "/img/WeChat.jpg", tip: "WeChat" }
+    - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/244932109", tip: "Bilibili"}
 
 
 #---------------------------
