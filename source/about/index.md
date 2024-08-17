@@ -17,7 +17,4 @@ Friendly in English/Chinese!
 
 [![Shuxiangfan's github stats](https://github-readme-stats.vercel.app/api?username=shuxiangfan&show_icons=true)](https://github.com/shuxiangfan)
 
-## 友情链接
-
-[ScottSunの小窝](https://scottsun.nov.ink/)
 
