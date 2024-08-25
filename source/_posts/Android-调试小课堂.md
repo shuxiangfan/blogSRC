@@ -1,4 +1,8 @@
-# Android 调试小课堂
+---
+title: Android 调试小课堂
+date: 2024-08-25 20:46:04
+tags:
+---
 
 ***原文由 Nicholas Lim (niclimcy) 和 Nolen Johnson (npjohnson) 写于2023年10月10日，发表于[LineageOS博客]([Android Debugging Crash Course – LineageOS – LineageOS Android Distribution](https://lineageos.org/engineering/HowTo-Debugging/))***
 
